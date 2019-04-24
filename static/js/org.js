@@ -373,6 +373,11 @@ export const org = [
                                                 "label": "赵闯",
                                                 "className": ['radius','orange'],
                                             },
+                                            {
+                                                "id": 12774,
+                                                "label": "王强",
+                                                "className": ['radius','orange'],
+                                            },
                                         ]
                                     },
                                     {
@@ -4660,6 +4665,11 @@ export const org = [
                                                         "id": 12773,
                                                         "label": "赵闯",
                                                         "className": ['radius', 'pink'],
+                                                    },
+                                                    {
+                                                        "id": 12774,
+                                                        "label": "王强",
+                                                        "className": ['radius','orange'],
                                                     },
                                                 ]
                                             },
