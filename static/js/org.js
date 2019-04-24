@@ -283,7 +283,7 @@ export const org = [
                         "children": [
                             {
                                 "id": 98,
-                                "label": "IT服务中心",
+                                "label": "IT服务中心(4人)",
                                 "children": [
                                     {
                                         "id": 687,
@@ -309,7 +309,7 @@ export const org = [
                             },
                             {
                                 "id": 90,
-                                "label": "研发中心",
+                                "label": "研发中心(28人)",
                                 "children": [
                                     {
                                         "id": 697,
@@ -4516,7 +4516,7 @@ export const org = [
                         "children": [
                             {
                                 "id": 1015,
-                                "label": "人力资源部",
+                                "label": "人力资源部(1人)",
                                 "children": [
                                     {
                                         "id": 1006,
@@ -4527,16 +4527,16 @@ export const org = [
                             },
                             {
                                 "id": 77,
-                                "label": "居家医养项目部",
+                                "label": "居家医养项目部(35人)",
                                 "children": [
-                                    {
-                                        "id": 1181,
-                                        "label": "居家医养项目副经理",
-                                        "children": null
-                                    },
+                                    // {
+                                    //     "id": 1181,
+                                    //     "label": "居家医养项目副经理",
+                                    //     "children": null
+                                    // },
                                     {
                                         "id": 1294,
-                                        "label": "居家服务组",
+                                        "label": "居家服务组(3人)",
                                         "children": [
                                             {
                                                 "id": 1055,
@@ -4552,7 +4552,7 @@ export const org = [
                                     },
                                     {
                                         "id": 1297,
-                                        "label": "社区巡诊组",
+                                        "label": "社区巡诊组(26人)",
                                         "children": [
                                             {
                                                 "id": 1051,
@@ -4628,7 +4628,7 @@ export const org = [
                                     },
                                     {
                                         "id": 1298,
-                                        "label": "政府项目组",
+                                        "label": "政府项目组(3人)",
                                         "children": [
                                             {
                                                 "id": 1050,
@@ -4649,7 +4649,7 @@ export const org = [
                                     },
                                     {
                                         "id": 1299,
-                                        "label": "医养通运营组",
+                                        "label": "医养通运营组(2人)",
                                         "children": [
                                             {
                                                 "id": 1277,
@@ -4671,36 +4671,36 @@ export const org = [
                                             }
                                         ]
                                     },
-                                    {
-                                        "id": 916,
-                                        "label": "家医助理主管",
-                                        "children": null
-                                    },
-                                    {
-                                        "id": 918,
-                                        "label": "家医助理",
-                                        "children": null
-                                    },
-                                    {
-                                        "id": 919,
-                                        "label": "运营主管",
-                                        "children": null
-                                    },
-                                    {
-                                        "id": 920,
-                                        "label": "运营专员",
-                                        "children": null
-                                    },
-                                    {
-                                        "id": 923,
-                                        "label": "居家医养项目负责人",
-                                        "children": null
-                                    }
+                                    // {
+                                    //     "id": 916,
+                                    //     "label": "家医助理主管",
+                                    //     "children": null
+                                    // },
+                                    // {
+                                    //     "id": 918,
+                                    //     "label": "家医助理",
+                                    //     "children": null
+                                    // },
+                                    // {
+                                    //     "id": 919,
+                                    //     "label": "运营主管",
+                                    //     "children": null
+                                    // },
+                                    // {
+                                    //     "id": 920,
+                                    //     "label": "运营专员",
+                                    //     "children": null
+                                    // },
+                                    // {
+                                    //     "id": 923,
+                                    //     "label": "居家医养项目负责人",
+                                    //     "children": null
+                                    // }
                                 ]
                             },
                             {
                                 "id": 79,
-                                "label": "财务部",
+                                "label": "财务部(1人)",
                                 "children": [
                                     {
                                         "id": 675,
@@ -4711,7 +4711,7 @@ export const org = [
                             },
                             {
                                 "id": 84,
-                                "label": "运营管理部",
+                                "label": "运营管理部(2人)",
                                 "children": [
                                     {
                                         "id": 672,
@@ -4737,7 +4737,7 @@ export const org = [
                             },
                             {
                                 "id": 87,
-                                "label": "房山",
+                                "label": "房山(53人)",
                                 "children": [
                                     {
                                         "id": 104,
@@ -5171,7 +5171,7 @@ export const org = [
                             },
                             {
                                 "id": 88,
-                                "label": "双二",
+                                "label": "双二(154人)",
                                 "children": [
                                     {
                                         "id": 169,
