@@ -4669,7 +4669,7 @@ export const org = [
                                                     {
                                                         "id": 12774,
                                                         "label": "王强",
-                                                        "className": ['radius','orange'],
+                                                        "className": ['radius','pink'],
                                                     },
                                                 ]
                                             },
