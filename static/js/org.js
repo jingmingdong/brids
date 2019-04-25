@@ -4666,11 +4666,11 @@ export const org = [
                                                         "label": "赵闯",
                                                         "className": ['radius', 'pink'],
                                                     },
-                                                    {
-                                                        "id": 12774,
-                                                        "label": "王强",
-                                                        "className": ['radius','pink'],
-                                                    },
+                                                    // {
+                                                    //     "id": 12774,
+                                                    //     "label": "王强",
+                                                    //     "className": ['radius','pink'],
+                                                    // },
                                                 ]
                                             },
                                             {
